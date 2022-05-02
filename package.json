@@ -1,0 +1,14 @@
+{
+  "name": "exercise-files",
+  "version": "1.0.0",
+  "description": "Node exercise - build the UNIX cat utility",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aluisio Matias",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
